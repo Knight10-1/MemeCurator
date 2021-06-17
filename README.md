@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @MemeCurator
-- 👀 I’m interested in digital design, establishing a core block chain, Python, C++
+- 👀 I’m interested in digital design, commited to a core BlockChain, Python, C++
 - 📫 JGifford1007@gmail.com
 
 <!---
